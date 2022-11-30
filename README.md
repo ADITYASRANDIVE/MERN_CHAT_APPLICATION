@@ -19,8 +19,14 @@ Real time chatting
 Enabled typing status
 Secured User details.
 
-Tech Stack Used:
+Tech Stack Used: React js, node js, express js, mongo db, socket.io
 
-Future Scope:
+Future Scope: The main objective of the project is to develop a Secure Chat Application. I had taken a wide range of literature review in order to achieve all the tasks, where I came to know about some of the products that are existing in the market. I made a detailed research in that path to cover the loop holes that existing systems are facing and to eradicate them in our application. In the process of research I came to know about the latest technologies and different algorithms.
+With the knowledge I have gained by developing this application, I am confident that in the future I can make the application more effectively by adding this services.
 
-Authors:
+Extending this application by providing Authorisation service.
+Creating Database and maintaining users.
+Increasing the effectiveness of the application by providing Voice Chat.
+Extending it to Web Support.
+
+Authors: Aditya randive, Kaivalya lotankar
